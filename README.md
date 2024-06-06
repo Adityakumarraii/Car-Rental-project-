@@ -28,18 +28,3 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Ridex** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/ridex.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/ridex.git
-
-
-### License
-
-This project is **free to use** and does not contains any license.
